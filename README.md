@@ -157,6 +157,8 @@ h)	爬虫系列：各种爬取数据，存储分析数据，呈现数据。（�
 ---
 ![JDS](https://github.com/goldenfish689/android-reverse/blob/main/nx.png)
 
+更多招聘需求：https://github.com/goldenfish689/android-reverse/blob/main/Android%E9%80%86%E5%90%91JD.xlsx
+
 7,	业务样本，实战案列。
 ---
 
