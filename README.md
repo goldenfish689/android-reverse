@@ -71,8 +71,11 @@ b)	模拟器，zymagisk面具。Frida，xposed各Hook框架资源。各种虚拟
 4.	网站论坛，公众号，博主主页。
 
 看雪论坛：https://bbs.kanxue.com/
+
 52破解论坛：https://www.52pojie.cn/
+
 MT论坛：https://bbs.binmt.cc/
+
 
 
 5.	业务需求
@@ -118,8 +121,13 @@ y)	抖音引流软件破解。
 7，安全加固厂商
 
 网易易盾：https://dun.163.com/product/android-reinforce
+
 爱加密：https://www.ijiami.cn/
+
 360加固：https://jiagu.360.cn/#/global/index
+
 梆梆加固：https://dev.bangcle.com/
+
 腾讯加固：https://cloud.tencent.com/product/ms
+
 
