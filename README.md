@@ -1,5 +1,7 @@
 # android-reverse
-Android逆向攻略：逆向技术研究分析，逆向资源集合！【作者vx：ldxs2020】
+Android 逆向业务团队【寻优秀伙伴，寻优秀学徒，VX：ldxs2020，】
+
+Android逆向业务栈
 
 Android逆向技术栈
 ===
@@ -55,7 +57,7 @@ c)	编译原理：
 
 编译过程，编译优化。
 
-代码混淆和保护Java2C，OLLVM。
+代码混淆和保护Java2C，OLLVM，VMP。
 
 解释执行和编译执行。
 
