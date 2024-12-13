@@ -3,8 +3,12 @@ Android 逆向业务团队【寻优秀伙伴，寻优秀学徒，VX：ldxs2020�
 
 Android逆向业务栈
 
+![Android逆向业务栈](https://github.com/goldenfish689/android-reverse/blob/main/Android%E9%80%86%E5%90%91%E4%B8%9A%E5%8A%A1.jpeg)
+
 Android逆向技术栈
 ===
+
+![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/Android%E9%80%86%E5%90%91%E6%8A%80%E6%9C%AF%E6%A0%88.jpeg)
 
 1,	基础知识点
 ---
