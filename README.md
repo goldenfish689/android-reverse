@@ -1,5 +1,6 @@
 # android-reverse
-Android 逆向业务团队【寻优秀伙伴，寻优秀学徒，VX：ldxs2020，】
+
+Android 逆向学习
 
 Android逆向业务栈
 ===
@@ -246,7 +247,7 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 
 几维安全：https://www.kiwisec.com/
 
-9,技术交流，加微信
+9,团队寻优秀伙伴，寻优秀学徒，微信：
 ---
 ![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/mmr.jpg)
 
