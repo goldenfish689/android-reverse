@@ -1,6 +1,6 @@
 # android-reverse
 
-Android 逆向学习（vx：ldxs2020） 逆向学习博客：https://blog.nnicer.com/
+Android 逆向接单+收徒（vx：ldxs2020） 逆向学习博客：https://blog.nnicer.com/
 
 Android逆向业务栈
 ===
