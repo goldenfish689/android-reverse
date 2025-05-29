@@ -12,137 +12,11 @@ Android逆向技术栈
 
 ![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/Android%E9%80%86%E5%90%91%E6%8A%80%E6%9C%AF%E6%A0%88.jpeg)
 
-1,	基础知识点
----
 
 
 
 
-a)	操作系统：
-
-i.	内存管理：内存地址空间，虚拟内存物理内存的映射关系；堆和栈；
-
-ii.	进程管理：进程管理，进程优先级，进程通信，进程地址空间，进程权限；fork,exec,clone,进程控制块PCB，进程映像；/proc/pid/map；
-
-iii.	设备驱动：设备驱动文件，binder驱动。
-
-iv.	文件系统，文件管理，访问权限，用户用户组。
-
-v.	网络，
-
-vi.	系统调用，关键的系统调用：ptrace，fork,exec,clone，ioctrl，mmap
-
-vii.	Linux操作系统
-
-viii.	Android Framework。（参考源码）
-
-b)	开发语言，
-
-汇编ASM,ARM32/64架构：需要知道ARM32/64架构下的过程调用规范（APCS），它定义了:
-
-对寄存器使用的限制。
-
-使用栈的惯例。
-
-在函数调用之间传递/返回參数。
-
-能够被‘回溯’的基于栈的结构的格式，用来提供从失败点到程序入口的函数(和给予的參数)的列表。
-
-
-C，C++：语法，优化写法，编译原理。需要知道基本数据类型和结构体，类，对象等复杂数据结构体在内存中的存储，方便计算数据存储地址。
-
-
-Java，Smali，JNI，NDK; 语法，基本数据类型，复杂数据类型。
-
-JavaScript、Python、lua。
-
-跨平台语言Flutter,WebView/JS,H5，ReactNative. 
-
-
-c)	编译原理：
-
-编译过程，编译优化。
-
-代码混淆和保护Java2C，OLLVM，VMP。
-
-解释执行和编译执行。
-
-脚本语言和解释型语言。
-
-d)	静态分析：程序文件结构。
-
-DEX，文件结构
-
-ELF，文件结构
-
-资源文件，资源文件结构，资源加载过程
-
-e)	动态分析：程序加载，执行原理。
-
-Linker机制，
-
-ART机制，
-
-f)	网络协议、抓包分析：Http/Https,Websocket,TCP/IP
-
-g)	加密算法：AES，DES，RSA，MD5，SHA-1，Base64。
-
-
-2,	实战技术点
----
-a)	反调试，反ROOT，反HOOK, 反代理，反抓包，防Dump，双IDA。
-
-b)	脱壳加壳，修复，代码还原。（Java2C ， VMP，OLLVM），内存扫描分析，内存Dump。
-
-c)	协议分析，游戏数据包还原和封装。APP脱机运行。抓包封包，解密加密。修改器。
-
-d)	虚拟机运行，多开/应用分身。ART，Flutter，WebView，H5，ReacNaitve。VA，Unity3D。
-
-e)	爬虫（app或web），获取数据，处理数据。自动化，批量执行。
-
-f)	棋牌渗透。
-
-g)	过会员，VIP。获取会员APP资源。
-
-h)	马甲包，二次打包。过签名/包名/代码完整型验证。
-
-i)	汉化，二次打包。防马甲包代码关联：动态混淆，动态生成，插入垃圾代码（从代码，服务器，开发者账户等方面防关联）。
-
-j)	运行环境监测，虚拟机监测，模拟器检测，HOOK检测，ROOT检测，无障碍检测，VPN代理监测。
-
-k)	设备指纹，设备ID。软改硬改。改机抹机。微霸，抹机王。定制ROM。
-
-l)	自动化，模拟执行。无障碍服务。自动化框架。模拟点击。群控技术。
-
-m)	Sign算法。四神六神。设备ID。
-
-n)	漏洞利用：保活，弹窗，webView漏洞。
-
-o)	过反调试，反HOOK。
-
-p)	过包名，签名，代码完整型检查。
-
-
-3,	工具集合
----
-
-a)	IDA，Jadx-gui，charles，Httpcannary，fiddle，binnaryNinjia。MT管理器。
-
-b)	模拟器，zymagisk面具。Frida，xposed各Hook框架资源。各种虚拟机方案。
-
-4,	网站论坛，公众号，博主主页。
----
-    
-看雪论坛：https://bbs.kanxue.com/
-
-52破解论坛：https://www.52pojie.cn/
-
-MT论坛：https://bbs.binmt.cc/
-
-
-
-
-5,	业务需求
+1,	业务需求
    ---
 a)	代码、数据，算法还原，竞品分析。算法代码提取，文件/数据解密。
 
@@ -161,13 +35,13 @@ g)	虚拟机开发：用于模拟执行，多开，游戏脚本运行，提供�
 h)	爬虫系列：各种爬取数据，存储分析数据，呈现数据。
 
 
-6,	招聘需求(JD)
+2,	招聘需求(JD)
 ---
 ![JDS](https://github.com/goldenfish689/android-reverse/blob/main/nx.png)
 
 更多招聘需求：https://github.com/goldenfish689/android-reverse/blob/main/Android%E9%80%86%E5%90%91JD.xlsx
 
-7,	业务样本，实战案列。
+3,	业务样本，实战案列。
 ---
 
 a)	Telegram客户端修改，定制版。（所以不要随便下载来路不明的定制版，里面可能有暗藏机关，陷阱，不要贪图便宜）。
@@ -221,7 +95,7 @@ x)	海外马甲包，保活和弹窗。Ollvm。
 y)	某音引流软件破解。
 
 
-8，安全加固厂商
+4，安全加固厂商
 ---
 网易易盾：https://dun.163.com/product/android-reinforce
 
@@ -247,7 +121,7 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 
 几维安全：https://www.kiwisec.com/
 
-9,微信：mx2023333
+5,微信：mx2023333
 ---
 ![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/barcode.png)
 
