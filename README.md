@@ -1,6 +1,6 @@
 # android-reverse
 
-Android 逆向接单+收徒（微信：mx2023333） 逆向学习博客：https://blog.nnicer.com/
+Android 逆向接单+收徒（微信：mx2023333） 
 
 Android逆向业务栈
 ===
@@ -249,7 +249,7 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 
 9,微信：mx2023333
 ---
-![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/mmr.jpg)
+![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/barcode.png)
 
 
 
