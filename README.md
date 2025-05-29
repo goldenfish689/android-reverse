@@ -5,7 +5,7 @@ Android 逆向接单+收徒（微信：mx2023333）
 Android逆向业务栈
 ===
 
-![Android逆向业务栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/Android%E9%80%86%E5%90%91%E4%B8%9A%E5%8A%A1.jpeg)
+![Android逆向业务栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/Android逆向业务.jpeg)
 
 Android逆向技术栈
 ===
