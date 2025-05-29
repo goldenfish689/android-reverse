@@ -14,7 +14,7 @@ Android逆向技术栈
 
 Android逆向学习路径
 ===
-![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/1748523995908.jpg)
+![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/1748524351683.png)
 
 
 Android逆向知识点（点击放大看）
