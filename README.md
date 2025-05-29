@@ -1,6 +1,6 @@
 # android-reverse
 
-Android 逆向接单+收徒（微信：ldxs2020） 逆向学习博客：https://blog.nnicer.com/
+Android 逆向接单+收徒（微信：mx2023333） 逆向学习博客：https://blog.nnicer.com/
 
 Android逆向业务栈
 ===
@@ -247,7 +247,7 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 
 几维安全：https://www.kiwisec.com/
 
-9,团队寻优秀伙伴，寻优秀学徒，微信：ldxs2020
+9,微信：mx2023333
 ---
 ![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/mmr.jpg)
 
