@@ -5,21 +5,21 @@ Android 逆向接单+收徒（微信：mx2023333）
 Android逆向业务栈
 ===
 
-![Android逆向业务栈](https://github.com/goldenfish689/android-reverse/blob/main/Android%E9%80%86%E5%90%91%E4%B8%9A%E5%8A%A1.jpeg)
+![Android逆向业务栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/Android%E9%80%86%E5%90%91%E4%B8%9A%E5%8A%A1.jpeg)
 
 Android逆向技术栈
 ===
 
-![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/Android%E9%80%86%E5%90%91%E6%8A%80%E6%9C%AF%E6%A0%88.jpeg)
+![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/Android%E9%80%86%E5%90%91%E6%8A%80%E6%9C%AF%E6%A0%88.jpeg)
 
 Android逆向学习路径
 ===
-![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/1748524351683.png)
+![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748524351683.png)
 
 
 Android逆向知识点（点击放大看）
 ===
-![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/1748523481702.jpg)
+![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748523481702.jpg)
 
 
 
@@ -45,7 +45,7 @@ h)	爬虫系列：各种爬取数据，存储分析数据，呈现数据。
 
 2,	招聘需求(JD)
 ---
-![JDS](https://github.com/goldenfish689/android-reverse/blob/main/nx.png)
+![JDS](https://github.com/goldenfish689/android-reverse/blob/main/pictures/nx.png)
 
 更多招聘需求：https://github.com/goldenfish689/android-reverse/blob/main/Android%E9%80%86%E5%90%91JD.xlsx
 
@@ -131,7 +131,7 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 
 5,微信：mx2023333
 ---
-![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/barcode.png)
+![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/pictures/barcode.png)
 
 
 
