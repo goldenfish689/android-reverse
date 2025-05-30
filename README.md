@@ -12,14 +12,7 @@ Android逆向技术栈
 
 ![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/Android%E9%80%86%E5%90%91%E6%8A%80%E6%9C%AF%E6%A0%88.jpg)
 
-Android逆向学习路径
-===
-![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748524351683.png)
 
-
-Android逆向知识点（点击放大）
-===
-![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748523481702.jpg)
 
 
 1,逆向业务板块
@@ -28,14 +21,7 @@ Android逆向知识点（点击放大）
 ![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748574514613.jpg)
 
 
-
-2,	招聘需求(JD)
----
-![JDS](https://github.com/goldenfish689/android-reverse/blob/main/pictures/nx.png)
-
-更多招聘需求：https://github.com/goldenfish689/android-reverse/blob/main/Android%E9%80%86%E5%90%91JD.xlsx
-
-3,	实战案列。
+2,	部分客户案列
 ---
 
 a)	Telegram客户端修改，定制版。（所以不要随便下载来路不明的定制版，里面可能有暗藏机关，陷阱，不要贪图便宜）。
@@ -89,7 +75,7 @@ x)	海外马甲包，保活和弹窗。Ollvm。
 y)	某音引流软件破解。
 
 
-4，安全加固厂商
+3，安全加固厂商
 ---
 网易易盾：https://dun.163.com/product/android-reinforce
 
@@ -115,9 +101,19 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 
 几维安全：https://www.kiwisec.com/
 
-5,收徒, V：mx2023333
+4,收徒, V：mx2023333
 ---
 ![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/pictures/barcode.png)
+
+
+Android逆向学习路径
+===
+![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748524351683.png)
+
+
+Android逆向知识点（点击放大）
+===
+![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748523481702.jpg)
 
 
 
