@@ -101,12 +101,9 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 
 几维安全：https://www.kiwisec.com/
 
-4,收徒, V：mx2023333
----
-![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/pictures/barcode.png)
 
 
-5，Android逆向学习
+4，Android逆向学习
 ===
 
 学习路径
@@ -119,6 +116,9 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 ![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748523481702.jpg)
 
 
+5,收徒, V：mx2023333
+---
+![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/pictures/barcode.png)
 
 
 
