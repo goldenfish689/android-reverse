@@ -35,7 +35,7 @@ Android逆向知识点（点击放大）
 
 更多招聘需求：https://github.com/goldenfish689/android-reverse/blob/main/Android%E9%80%86%E5%90%91JD.xlsx
 
-3,	业务样本，实战案列。
+3,	实战案列。
 ---
 
 a)	Telegram客户端修改，定制版。（所以不要随便下载来路不明的定制版，里面可能有暗藏机关，陷阱，不要贪图便宜）。
