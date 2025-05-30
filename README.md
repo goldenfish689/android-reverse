@@ -1,6 +1,6 @@
 # Android-逆向精要
 
-Android 逆向接单+收徒（微信：mx2023333） 
+Android 逆向接单（微信：mx2023333） 
 
 Android逆向业务栈
 ===
