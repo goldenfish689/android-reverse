@@ -115,7 +115,7 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 
 几维安全：https://www.kiwisec.com/
 
-5,微信：mx2023333
+5,收徒 V：mx2023333
 ---
 ![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/pictures/barcode.png)
 
