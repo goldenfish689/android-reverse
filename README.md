@@ -1,6 +1,6 @@
 # 互联网10+年|大厂码农|深耕逆向
 
-Android 逆向接单（TG：@mingjun689, V：mx2023333） 
+Android 逆向接单（TG：@mingjun689,  VX：mx2023333） 
 
 Android逆向业务栈
 ===
@@ -116,7 +116,7 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 ![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748523481702.jpg)
 
 
-5,收徒, V：mx2023333
+5,收徒, VX：mx2023333
 ---
 ![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/pictures/barcode.png)
 
