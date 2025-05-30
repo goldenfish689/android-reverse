@@ -1,6 +1,6 @@
 # 互联网10+年|大厂码农|深耕逆向
 
-Android 逆向接单（微信：mx2023333） 
+Android 逆向接单（TG：@mingjun689, V：mx2023333） 
 
 Android逆向业务栈
 ===
