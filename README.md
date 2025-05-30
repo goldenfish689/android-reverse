@@ -106,12 +106,15 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 ![技术交流，加微信](https://github.com/goldenfish689/android-reverse/blob/main/pictures/barcode.png)
 
 
-Android逆向学习路径
+5，Android逆向学习
+===
+
+学习路径
 ===
 ![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748524351683.png)
 
 
-Android逆向知识点（点击放大）
+知识点汇总（点击放大）
 ===
 ![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748523481702.jpg)
 
