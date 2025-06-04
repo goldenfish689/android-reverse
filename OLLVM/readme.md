@@ -167,9 +167,7 @@ unsigned char bytecode[] = {
 （注：0xFF 表示第一个参数，0xFE 表示第二个参数）
 
 4. 虚拟机解释器代码（C 实现）：
-c
-复制
-编辑
+
 #include <stdio.h>
 
 int run_vm(unsigned char *code, int arg0, int arg1) {
@@ -238,8 +236,7 @@ run_vm 函数就是 dispatcher，实际工程中你需要用 IDA 或动态调试
 写一个映射表，比如：
 
 python
-复制
-编辑
+
 INSTR_TABLE = {
   0x01: "LOAD",
   0x02: "ADD",
@@ -252,8 +249,7 @@ INSTR_TABLE = {
 拿到bytecode后，用Python写个脚本反汇编：
 
 python
-复制
-编辑
+
 def disasm(bytecode):
     i = 0
     while i < len(bytecode):
@@ -299,8 +295,7 @@ z = x*2 + y; if (z == 10) return 1; else return 0;
 
 📦 项目结构说明：
 bash
-复制
-编辑
+
 mini_vmp_project/
 ├── src/
 │   ├── main.c      # 主函数，调用虚拟机执行
@@ -308,8 +303,7 @@ mini_vmp_project/
 ├── disasm.py       # Python 脚本，反汇编 bytecode
 💡 编译运行方式（Linux）
 bash
-复制
-编辑
+
 cd mini_vmp_project/src
 gcc main.c vm.c -o vmtest
 ./vmtest
