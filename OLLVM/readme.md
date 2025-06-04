@@ -110,8 +110,7 @@ Github上搜索关键词 “unvm”，“vmp trace”，研究现有工具源码
 🧩 Part 1：最小VMP样本构建（源码）
 1. 原始C逻辑（原函数）：
 c
-复制
-编辑
+
 int logic(int x, int y) {
     int z = x * 2 + y;
     if (z == 10) {
@@ -137,8 +136,7 @@ Opcode	指令名	含义
 下面是将原始逻辑翻译成的字节码：
 
 makefile
-复制
-编辑
+
 LOAD r0, x      ; 输入x
 LOAD r1, y      ; 输入y
 MUL  r0, 2      ; r0 = x * 2
@@ -153,8 +151,7 @@ RET  r2
 转成机器可读的简易格式（以字节表示）：
 
 c
-复制
-编辑
+
 unsigned char bytecode[] = {
     0x01, 0x00, 0xFF,   // LOAD r0, arg0
     0x01, 0x01, 0xFE,   // LOAD r1, arg1
@@ -293,7 +290,6 @@ z = x*2 + y; if (z == 10) return 1; else return 0;
 隐藏指令调度结构（如thread上下文切换、代码拼接）；
 
 使用 opaque predicate、指令混淆、垃圾字节等高级VMP策略。
-
 
 
 
