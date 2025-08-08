@@ -21,7 +21,7 @@ Android逆向技术栈
 ![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748574514613.jpg)
 
 
-2,	部分客户案列
+2,	部分客户案例
 ---
 
 a)	Telegram客户端修改，定制版。（所以不要随便下载来路不明的定制版，里面可能有暗藏机关，陷阱，不要贪图便宜）。
