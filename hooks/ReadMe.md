@@ -1,7 +1,7 @@
 2025-9-9日更新:
 （看这个小小的脚本，本人用它突破了2个vmp+ollvm项目的防护，受益匪浅！！！）
 
-***使用方法：***
+***hook_jni_and_libc.js使用方法：***
 
 1，替换脚本中的OLLVM加固的so。
 2，配置好Frida，后运行：frida -U -f com.yourapp.name -l hook_jni_and_libc.js --no-pause
