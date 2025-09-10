@@ -53,7 +53,7 @@
 
 JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1e10
 
- [JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1e2c
+ [JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1edc
 
  [JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1e48
  [LibcHook] strlen    called ,from: 0x725d2afd30
@@ -121,7 +121,7 @@ JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1e10
  [JNIHook]    jni function : [GetObjectClass] called from:0x725d2b3f38
  GetObjectClass called , class name:android.app.Application
 
- [JNIHook]    jni function : [GetMethodID] called from:0x725d2b3ff4
+ [JNIHook]    jni function : [GetMethodID] called from:0x725d2b3fdf
 
  [JNIHook] GetMethodID,         Method Name: [getPackageName]     Signature: ()Ljava/lang/String;     Class: [android.app.Application]
 
