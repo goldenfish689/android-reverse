@@ -121,9 +121,10 @@ JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1e10
  [JNIHook]    jni function : [GetObjectClass] called from:0x725d2b3f38
  GetObjectClass called , class name:android.app.Application
 
- [JNIHook]    jni function : [GetMethodID] called from:0x725d2b3fdf
+ [JNIHook]    jni function : [GetMethodID] called from:0xdfdd2b3fdf
 
- [JNIHook] GetMethodID,         Method Name: [getPackageName]     Signature: ()Ljava/lang/String;     Class: [android.app.Application]
+ [JNIHook] GetMethodID,         Method Name: [getPackageName]     Signature: ()Ljava/lang/String;    
+ Class: [android.app.Application]
 
  [JNIHook]    jni function : [CallObjectMethodV] called from:0x725d3e5544
  Call XXX MethodV called - Class Name: android.app.Application, Method ID: 0x6fca3c38 (Method name not directly accessible)
