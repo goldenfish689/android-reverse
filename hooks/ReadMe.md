@@ -7,7 +7,10 @@
 
 2，配置好Frida，后运行：frida -U -f com.yourapp.name -l hook_jni_and_libc.js --no-pause
 
-观察日志：
+**观察日志：**
+
+
+......
 
 JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1e10
 
@@ -86,6 +89,8 @@ JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1e10
  [JNIHook]    jni function : [CallObjectMethodV] called from:0x725d3e5544
  Call XXX MethodV called - Class Name: android.app.Application, Method ID: 0x6fca3c38 (Method name not directly accessible)
 
+......  
 
- 逐条分析Java、JNI、Libc的调用日志，还原逻辑。
+
+**逐条分析Java、JNI、Libc的调用日志，还原逻辑。**
  
