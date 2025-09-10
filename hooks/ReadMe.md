@@ -1,5 +1,5 @@
 2025-9-9日更新:
-（作者已用此脚本突破了2个vmp+ollvm项目的防护，受益匪浅！！！）
+（本人已用此脚本突破了2个vmp+ollvm项目的防护，受益匪浅！！！）
 
 
 # 基于Frida Hook的VMP+OLLVM逆向分析方案
@@ -55,11 +55,11 @@ JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1e10
 
  [JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1edc
 
- [JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1e48
+ [JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725c2b1e48
  [LibcHook] strlen    called ,from: 0x725d2afd30
  strlen      called str:
 
- [JNIHook]    jni function : [FindClass] called from:0x725d2b1a14
+ [JNIHook]    jni function : [FindClass] called from:0x7d5d2b1a14
 
  [JNIHook] FindClass:      Class Name: [android/os/Build]
 
@@ -101,7 +101,7 @@ JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1e10
  strlen      called str: Xiaomi
  [LibcHook] strlen    called ,from: 0x725d2e000c
  strlen      called str: QKQ1.190828.002 test-keys
- [LibcHook] strstr    called ,from: 0x725d2b1d40
+ [LibcHook] strstr    called ,from: 0x725ddf1d40
  strstr      called str1: xiaomi str2: other1
  [LibcHook] strstr    called ,from: 0x725d2b1d7c
  strstr      called str1: xiaomi str2: other1
