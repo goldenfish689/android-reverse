@@ -86,4 +86,5 @@ JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1e10
  Call XXX MethodV called - Class Name: android.app.Application, Method ID: 0x6fca3c38 (Method name not directly accessible)
 
 
- 分析日志，还原逻辑.....
+ 逐条分析Java、JNI、Libc的调用日志，还原逻辑。
+ 
