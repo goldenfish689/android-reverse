@@ -18,7 +18,7 @@
 
 这些方法虽然有效，但往往需要投入大量时间和精力，且对分析人员的技术水平要求较高。
 
-## 解决方案
+## 脚本方案
 
 ### 核心思路
 
@@ -46,7 +46,7 @@
 
 ***脚本使用方法：***
 
-1，替换脚本中的OLLVM加固的so。  
+1，替换脚本中的VMP+OLLVM加固的so。  
 
 2，配置好Frida，后运行：frida -U -f com.yourapp.name -l hook_jni_and_libc.js --no-pause
 
