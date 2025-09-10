@@ -40,7 +40,6 @@
 
 
 
-
 ***脚本使用方法：***
 
 1，替换脚本中的VMP+OLLVM加固的so。  
@@ -78,7 +77,7 @@ JNIHook]    jni function : [ReleaseStringUTFChars] called from:0x725d2b1e10
      Field Name: BRAND
      Signature: Ljava/lang/String;
 
- [JNIHook]    jni function : [GetStaticFieldID] called from:0x725d2b1ba8
+ [JNIHook]    jni function : [GetStaticFieldID] called from:0x725d2b1ba3
 
  [JNIHook] GetStaticFieldID called
      Class: android.os.Build
