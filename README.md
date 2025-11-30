@@ -25,7 +25,7 @@ Android逆向技术栈
 ---
 
 a)	印度/东南亚各种钱包APP的协议分析（获取OTP登录协议，刷新token, 获取用户UPI ID, 流水信息等）
-【Mobikwik, Freecharge, MyPB.....等】
+【Mobikwik, Freecharge, MyPB,PhonePe.....等】
 
 b)	Telegram客户端修改，定制版。（所以不要随便下载来路不明的定制版，里面可能有暗藏机关，陷阱，不要贪图便宜）。
 
