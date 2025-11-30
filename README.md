@@ -24,7 +24,7 @@ Android逆向技术栈
 2,	部分客户案例
 ---
 
-a)	印度/东南亚各种钱包APP的协议分析（获取OTP登录协议，刷新token, 获取用户UPI ID, 流水信息等）
+a)	印度/东南亚钱包APP的协议分析（获取OTP登录协议，刷新token, 获取用户UPI ID, 流水信息等）
 【Mobikwik, Freecharge, PhonePe,MyPB,BHIM IndusPay,TataNeu,Slice.....】
 
 b)	Telegram客户端修改，定制版。（所以不要随便下载来路不明的定制版，里面可能有暗藏机关，陷阱，不要贪图便宜）。
