@@ -116,7 +116,7 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 ===
 ![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748523481702.jpg)
 
-5,收徒, VX：mx2023333 (添加时注明来意)
+5,收徒, VX：mx2023333 (注明来意)
 ===
 
 ---
