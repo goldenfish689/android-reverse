@@ -1,6 +1,6 @@
 # 互联网10+年|大厂码农|深耕逆向
 
-Android 逆向接单（TG：@mingjun689） 
+Android 逆向接单（Telegram：@mingjun689） 
 
 Android逆向业务栈
 ======
