@@ -21,7 +21,7 @@ Android逆向技术栈
 ![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748574514613.jpg)
 
 
-2,	部分客户案例
+2,	客户案例
 ---
 
 a)	印度/东南亚钱包APP的协议分析（获取OTP登录协议，刷新token, 获取用户UPI ID, 流水信息等）
