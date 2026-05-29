@@ -2,21 +2,37 @@
 
 ------
 Phonepe
+
 Phonepe Business
+
 Paytm
+
 Paytm Business
+
 Mobikwik
+
 FreeCharge
+
 Airtel
+
 Amazon
+
 BHIM IndusPay
+
 Myjio
+
 Gpay
+
 Slice
+
 TataNeu
+
 Flipart
+
 Bangkok Bank Mobile Banking
+
 Kotak Bank
+
 ------
 
 
