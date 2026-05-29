@@ -21,13 +21,14 @@ Android逆向技术栈
 ![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748574514613.jpg)
 
 
-2,	客户案例
+2,	客户项目
 ---
 
-a)	Telegram客户端修改，定制版。（所以不要随便下载来路不明的定制版，里面可能有暗藏机关，陷阱，不要贪图便宜）。
+a)	印度/东南亚钱包APP的UPI协议分析（获取OTP登录协议，刷新token, 获取用户UPI ID, 流水信息等）+ 插件包开发
+【Mobikwik/Freecharge, PhonePe/Paytm ,AmaonPay, Gpay, BHIM IndusPay,TataNeu,Slice.....】
 
-b)	印度/东南亚钱包APP的UPI协议分析（获取OTP登录协议，刷新token, 获取用户UPI ID, 流水信息等）
-【Mobikwik/Freecharge, PhonePe/Paytm ,MyPB,BHIM IndusPay,TataNeu,Slice.....】
+b)	Telegram客户端修改，定制版。（所以不要随便下载来路不明的定制版，里面可能有暗藏机关，陷阱，不要贪图便宜）。
+
 
 c)	本地生活APP协议分析,比如某州租车， 某拉拉抢单协议，通过协议而非自动化的方式高效枪弹。
 
