@@ -1,6 +1,10 @@
 2026-5-9
 
-小米8se和google pixle8的playcheck 的绕过方案介绍。 xiaomi8se: 关键BitGapps + 隐藏root  , pixel8: trickystore+ 卸载模板，确保root对谷歌套件不可预见。
+小米8se和google pixle8的playcheck 的绕过方案介绍。
+
+xiaomi8se: 关键BitGapps + 隐藏root  ;
+
+pixel8: trickystore+ 卸载模板，确保root对谷歌套件不可预见。
 
 Magisk组件模块介绍：
 
