@@ -12,9 +12,6 @@ Amazon
 BHIM IndusPay
 Myjio
 Gpay
-
-------第二梯队
-
 Slice
 TataNeu
 Flipart
@@ -24,7 +21,9 @@ Kotak Bank
 
 
 | 纯协议方案 | 模拟官方 APP   |
+
 | 重打包方案 | 改造官方 APP   |
+
 | 真机方案  | 直接使用官方 APP |
 
 
