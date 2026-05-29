@@ -1,5 +1,5 @@
 支持清单（协议版+插件版）：
-------
+------第一梯队
 Phonepe
 Phonepe Business
 Paytm
@@ -11,7 +11,7 @@ Amazon
 BHIM IndusPay
 Myjio
 Gpay
-------
+------第二梯队
 Slice
 TataNeu
 Flipart
