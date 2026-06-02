@@ -3,7 +3,7 @@
 
 # 对抗 Google 的 Integrity 检查
 
-印度 UPI 应用很多采用 Google Play 的 Integrity 完整性校验。
+ UPI 钱包APP很多采用 Google Play 的 Integrity 完整性校验。
 
 ---
 
