@@ -77,7 +77,24 @@ y)	某音/Tiktok引流软件破解，点赞，评论，私信等。
 ![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748574514613.jpg)
 
 
-3，安全加固厂商
+
+
+3，Android逆向学习
+===
+
+学习路径
+===
+![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748524351683.png)
+
+
+知识点汇总
+===
+![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748523481702.jpg)
+
+
+
+
+4，加固厂商
 ---
 网易易盾：https://dun.163.com/product/android-reinforce
 
@@ -102,22 +119,6 @@ Virbox：https://aiot.virbox.com/androidprotection.html
 阿里云加固：https://www.aliyun.com/product/mobilepaas/mpaas_ppm_public_cn
 
 几维安全：https://www.kiwisec.com/
-
-
-
-4，Android逆向学习
-===
-
-学习路径
-===
-![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748524351683.png)
-
-
-知识点汇总
-===
-![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748523481702.jpg)
-
-
 
 
 
