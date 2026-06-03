@@ -7,12 +7,12 @@
 | 主流 UPI 钱包 | PhonePe、Paytm、Mobikwik、FreeCharge、Airtel Money、Amazon Pay、BHIM、IndusPay、MyJio、Google Pay（GPay）、Slice、Tata Neu、Flipkart Pay |
 | 商户版钱包 | PhonePe Business、Paytm Business |
 | 银行类 APP | Bangkok Bank Mobile Banking、Kotak Bank |
-| 持续新增 | 根据客户需求定制接入新的 UPI 钱包及银行 APP |
+| 持续新增 | 我们会根据客户需求定制接入新的 UPI 钱包及银行 APP |
 
 
 //==========================================
 
-特别强调，能稳定的查询数据是最重要的！！！其次才是采用什么方案，可根据业务类型去选择，组合。
+这里特别强调的一点是：能稳定的查询数据是最重要的！！！其次才是采用什么方案，可根据业务类型去选择，组合。
 
  纯协议方案 = 模拟官方 APP   
 
