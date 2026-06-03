@@ -14,14 +14,7 @@ Android逆向技术栈
 
 
 
-
-1,逆向业务板块
----
-
-![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748574514613.jpg)
-
-
-2,	客户项目
+1,	客户项目
 ---
 
 a)	UPI钱包APP的UPI协议分析（获取OTP登录协议，刷新token, 获取用户UPI ID, 流水信息等）+ 插件/改包开发
@@ -75,6 +68,13 @@ w)	某竞品APP算法提取，分析并还原so的native 算法，解密javascri
 x)	海外马甲包，携带保活和弹窗的功能。通过文件锁，账户同步等机制保活，通过虚拟窗口，模拟按键实现外弹。加vmp+Ollvm的保护。
 
 y)	某音/Tiktok引流软件破解，点赞，评论，私信等。
+
+
+
+2,逆向业务板块
+---
+
+![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748574514613.jpg)
 
 
 3，安全加固厂商
