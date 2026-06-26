@@ -14,7 +14,7 @@ Android逆向技术栈
 
 
 
-1,	客户项目
+1],	客户项目
 ---
 
 a)	UPI钱包APP的UPI协议分析（获取OTP登录协议，刷新token, 获取用户UPI ID, 流水信息等）+ 插件/改包开发
@@ -71,8 +71,9 @@ y)	某音/Tiktok引流软件破解，点赞，评论，私信等。
 
 
 
-2,Android 逆向-行业分析
+2],Android 逆向-行业分析
 ---
+
 
 
 - [2026 Android逆向人才需求分析报告 (对互联网平台上数百个Android逆向职位进行分析)](https://github.com/goldenfish689/android-reverse/blob/main/docs/Android%20%E9%80%86%E5%90%91-%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90.md)
