@@ -1,5 +1,8 @@
 # Android 逆向-行业分析
-(基于互联网平台上数百个Android逆向招聘职位的分析报告；明君逆向工作室-Telegram：@mingjun689）
+
+(基于互联网平台上数百个Android逆向招聘职位的分析报告）
+
+明君逆向工作室-Telegram：@mingjun689
 
 ---
 
