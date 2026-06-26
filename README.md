@@ -71,55 +71,39 @@ y)	某音/Tiktok引流软件破解，点赞，评论，私信等。
 
 
 
-2,逆向业务板块
+2,
+
+为什么你应该读完这份报告
+
+**月薪 30K 是这个方向的平均线，而不是天花板。**
+
+这是一份基于全网各大招聘平台、横跨北京/上海/深圳/广州/杭州/成都六城市、对 **406 个 Android 逆向岗位 JD 全量逐一分析**得出的系统性行业报告——不是经验之谈，不是感性判断，是数据说话。
+
+**如果你正在学习逆向**，这份报告会告诉你：市场真正在招什么、哪些技术是必须的、哪些只是加分项、初级→中级→专家的具体能力差异在哪里，以及如何绕开求职误区，直接奔向高薪赛道。
+
+**如果你已经有逆向能力**，这份报告会告诉你：哪些需求方付费意愿最强、哪些业务场景有持续复购、怎么从接一单变成长期合作、怎么用内容影响力替代简历找到客户。
+
 ---
 
-![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748574514613.jpg)
+### 五个最值得关注的结论
 
+> **① 需求极度饥渴**：六城市 406 个岗位，且多家公司同时在多城市重复招聘——说明市场根本招不够人，这是稳定的卖方市场。
+> 
+> **② 薪资中位数远超主流 Android 开发**：全市场 20–40K 占 62%，北京顶薪案例出现了折合月均超 16K 的 200–260K 年薪（16薪），上海/杭州稳定在 35K+ 中位。
+> 
+> **③ 技术壁垒正在快速拔高**：OLLVM 对抗、VMP 还原、unidbg 模拟执行——三年前这些是"加分项"，现在已经是 5 年以上岗位的硬门槛。越晚入场，追赶成本越高。
+> 
+> **④ 出海赛道是最新的增量机会**：TikTok、Shopee、WhatsApp 专项逆向岗位集中涌现，中文圈专项资料近乎空白，先发优势窗口期已经打开。
+> 
+> **⑤ 独立接单比想象中更容易启动**：数据采集公司、云手机厂商、游戏工作室——这三类需求方长期"招不到人"，外包意愿极强。一篇高质量的破防分析文章，就可能带来第一个付费客户。
 
-
-
-3，Android逆向学习
-===
-
-学习路径
-===
-![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748524351683.png)
-
-
-知识点汇总
-===
-![Android逆向知识点](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748523481702.jpg)
-
-
-
-
-4，加固厂商
 ---
-网易易盾：https://dun.163.com/product/android-reinforce
 
-爱加密：https://www.ijiami.cn/
-
-360加固：https://jiagu.360.cn/#/global/index
-
-梆梆加固：https://dev.bangcle.com/
-
-腾讯加固：https://cloud.tencent.com/product/ms
-
-腾讯WeTest：https://wetest.qq.com/products/application-reinforcement
-
-娜迦加固：https://www.nagain.com/#/home/index
-
-百度加固：https://apkprotect.baidu.com/android.html
-
-Virbox：https://aiot.virbox.com/androidprotection.html
-
-顶像加固：https://www.dingxiang-inc.com/business/fingerprint
-
-阿里云加固：https://www.aliyun.com/product/mobilepaas/mpaas_ppm_public_cn
-
-几维安全：https://www.kiwisec.com/
-
+> **数据基础**：来源于全网各大招聘平台，覆盖北京、深圳、广州、杭州、上海、成都六城市，共 406 个 Android 逆向相关职位 JD 全量文本分析  
+> **计数说明**：  
+> ✅ 精确计数 = 全量 JD 逐一统计  
+> ⚠️ 估算 = 基于 JD 片段推断，非全量计数，已标注  
+> ❌ 未收录 = 全量扫描未见此词汇
 
 
 
