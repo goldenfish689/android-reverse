@@ -832,4 +832,6 @@ OLLVM 控制流平坦化还原（IDA 插件 / D810 / Obfuscation-Resilient）
 
 *本报告基于公开招聘数据，分析结果仅反映公开信息，不涉及具体商业判断建议。*
 
-** 明君逆向工作室-Telegram：@mingjun689 **
+---
+
+- ** 明君逆向工作室-Telegram：@mingjun689 **
