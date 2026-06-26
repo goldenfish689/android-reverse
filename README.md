@@ -75,7 +75,7 @@ y)	某音/Tiktok引流软件破解，点赞，评论，私信等。
 ---
 
 
-- [基于数百个互联网平台的Android逆向招聘职位的分析报告](docs/docs/Android%20逆向-行业分析.md)
+- [基于数百个互联网平台的Android逆向招聘职位的分析报告](https://github.com/goldenfish689/android-reverse/blob/main/docs/Android%20%E9%80%86%E5%90%91-%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90.md)
 
 ---
 
