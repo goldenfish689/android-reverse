@@ -2,10 +2,12 @@
 
 Android 逆向接单（Telegram：@mingjun689） 
 
-（风控分析 / APP对抗 / 自动化 / 多开环境等）
+
 
 Android逆向业务栈
 ======
+
+（风控分析 / APP对抗 / 自动化 / 多开环境等）
 
 ![Android逆向业务栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/Android逆向业务.jpg)
 
