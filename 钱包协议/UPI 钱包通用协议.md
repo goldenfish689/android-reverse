@@ -1,7 +1,7 @@
 
 
 **覆盖平台：** Amazon Pay、MobiKwik、PhonePe、Airtel、FreeCharge、Paytm  
-**文档目的：** 综合描述此类 UPI 钱包 App 在 OTP 登录、查询 UPI ID、查询流水三类核心功能上的通用接口模型、参数规范、加密机制及安全措施。
+**文档目的：** 描述此类 UPI 钱包 App 在 OTP 登录、查询 UPI ID、查询流水三类核心功能上的接口模型、参数规范、加密机制及安全措施。
 
 ---
 
@@ -9,7 +9,7 @@
 
 ### 1.1 通信协议
 
-所有平台均采用 HTTPS（TLS），部分平台启用 HTTP/2。请求格式以 JSON 为主，部分旧接口采用 HTML 页面渲染 + 解析模式（如 Amazon Pay）。
+平台均采用 HTTPS（TLS），部分平台启用 HTTP/2。请求格式以 JSON 为主，部分旧接口采用 HTML 页面渲染 + 解析模式（如 Amazon Pay）。
 
 ### 1.2 整体会话生命周期
 
