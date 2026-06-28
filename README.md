@@ -80,7 +80,7 @@ Android逆向技术栈
 ---
 
 - [Android 逆向需求分析(1)-虚拟机/云手机/模拟器](https://github.com/goldenfish689/android-reverse/blob/main/docs/requirments-%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
-- 
+
 - [Android 逆向需求分析(2)-广告SDK](https://github.com/goldenfish689/android-reverse/blob/main/docs/requirments-%E5%B9%BF%E5%91%8ASDK%E5%88%86%E6%9E%90.md)  
 
 - [2026 Android逆向-技术&业务分析](https://github.com/goldenfish689/android-reverse/blob/main/docs/Android%20%E9%80%86%E5%90%91-%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90.md)
