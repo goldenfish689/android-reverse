@@ -85,7 +85,7 @@ Android逆向技术栈
 
 - [2026 Android逆向-技术&业务分析](https://github.com/goldenfish689/android-reverse/blob/main/docs/Android%20%E9%80%86%E5%90%91-%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90.md)
 
-- [2026 Android逆向一二线城市职位汇总](https://github.com/goldenfish689/android-reverse/blob/main/docs/Android%E9%80%86%E5%90%91%E8%81%8C%E4%BD%8D-%E4%B8%80%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%B1%87%E6%80%BB.md)
+- [2026 Android逆向一二线城市机会](https://github.com/goldenfish689/android-reverse/blob/main/docs/Android%E9%80%86%E5%90%91%E8%81%8C%E4%BD%8D-%E4%B8%80%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%B1%87%E6%80%BB.md)
 
 
 ---
