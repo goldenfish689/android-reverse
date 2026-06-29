@@ -18,7 +18,7 @@ Android逆向业务栈
 ---
 
 a)	UPI钱包APP的UPI协议分析（获取OTP登录协议，刷新token, 获取用户UPI ID, 流水信息等）+ 插件/改包开发
-【Mobikwik/Freecharge, PhonePe/Paytm ,AmaonPay, Gpay, BHIM IndusPay,TataNeu,Slice.....】
+【Mobikwik/Freecharge, PhonePe/Paytm ，Bharatpe business ,AmaonPay, Gpay, BHIM IndusPay,TataNeu,Slice.....】
 
 b)	本地生活APP协议分析,比如某州租车， 某拉拉抢单协议，通过协议而非自动化的方式高效枪弹。
 
