@@ -1,6 +1,6 @@
 
 
-**覆盖平台：** Amazon Pay、MobiKwik、PhonePe、Airtel、FreeCharge、Paytm  
+**覆盖平台：** Amazon Pay、MobiKwik、PhonePe、Bharatpe business，Airtel、FreeCharge、Paytm  
 **文档目的：** 描述此类 UPI 钱包 App 在 OTP 登录、查询 UPI ID、查询流水三类核心功能上的接口模型、参数规范、加密机制及安全措施。
 
 ---
