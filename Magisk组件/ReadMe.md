@@ -1,5 +1,5 @@
 
-# 逆向利器：Magisk / KernelSU 组件模块
+# 逆向利器：Magisk / KernelSU 模块
 
  Android 玩机环境（Root、隐藏、抓包及环境伪装）的主流模块与工具，它们是绕过风控进行协议分析的基础。
 
