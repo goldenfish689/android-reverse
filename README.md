@@ -74,7 +74,7 @@ Android逆向技术栈
 
 ![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/Android%E9%80%86%E5%90%91%E6%8A%80%E6%9C%AF%E6%A0%88.jpg)
 
-
+![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/1748523481702.jpg)
 
 2, Android 逆向-研究分析
 ---
