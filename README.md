@@ -79,7 +79,7 @@ y)	某音/Tiktok引流软件破解，点赞，评论，私信等。
 
 ![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/236.png)
 
-3, Android 逆向-研究分析
+3, Android 逆向-需求分析（落地变现）
 ---
 
 - [Android 逆向需求分析(1)-虚拟机/云手机/模拟器](https://github.com/goldenfish689/android-reverse/blob/main/docs/requirments-%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
