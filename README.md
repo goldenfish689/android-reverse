@@ -62,23 +62,24 @@ x)	海外马甲包，携带保活和弹窗的功能。通过文件锁，账户�
 
 y)	某音/Tiktok引流软件破解，点赞，评论，私信等。
 
+2，Android 逆向业务栈&技术栈
+---
 
-
-Android逆向业务栈
-======
+业务栈
+--
 
 
 ![Android逆向业务栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/Android逆向业务.jpg)
 
 
-Android逆向技术栈
-===
+技术栈
+--
 
 ![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/Android%E9%80%86%E5%90%91%E6%8A%80%E6%9C%AF%E6%A0%88.jpg)
 
 ![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/236.png)
 
-2, Android 逆向-研究分析
+3, Android 逆向-研究分析
 ---
 
 - [Android 逆向需求分析(1)-虚拟机/云手机/模拟器](https://github.com/goldenfish689/android-reverse/blob/main/docs/requirments-%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
