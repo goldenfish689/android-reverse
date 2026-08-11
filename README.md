@@ -6,12 +6,6 @@ Android 逆向接单（Telegram：@mingjun689）
 
 [APP协议分析 / 算法还原 / 数据爬虫 / 脱壳修复]
 
-Android逆向业务栈
-======
-
-
-![Android逆向业务栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/Android逆向业务.jpg)
-
 
 
 1,	客户项目
@@ -67,6 +61,14 @@ w)	某竞品APP算法提取，分析并还原so的native 算法，解密javascri
 x)	海外马甲包，携带保活和弹窗的功能。通过文件锁，账户同步等机制保活，通过虚拟窗口，模拟按键实现外弹。加vmp+Ollvm的保护。
 
 y)	某音/Tiktok引流软件破解，点赞，评论，私信等。
+
+
+
+Android逆向业务栈
+======
+
+
+![Android逆向业务栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/Android逆向业务.jpg)
 
 
 Android逆向技术栈
