@@ -1,6 +1,6 @@
 # 互联网10+年|大厂码农|深耕逆向
 
-Android 逆向接单（Telegram：@mingjun689） 
+Android 逆向接单、收徒（Telegram：@mingjun689） 
 
 [APP风控分析 / 设备指纹对抗 / 自动化脚本 / 多开环境]
 
