@@ -1,4 +1,4 @@
-Android逆向路线（2026-9）
+Android 培养路线（2026-9）
 
 一、基础知识
 1. APK结构：普通、加固、U3D与Cocos2d游戏APK。
