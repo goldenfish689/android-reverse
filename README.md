@@ -11,6 +11,8 @@ Android 逆向接单/收徒（Telegram：@mingjun689）
 1,	客户项目
 ---
 
+（因为各种原因，这里不展示细节，仅简单的罗列）
+
 a)	UPI钱包APP的UPI协议分析（获取OTP登录协议，刷新token, 获取用户UPI ID, 流水信息等）+ 插件/改包开发
 【Mobikwik/Freecharge, PhonePe/Paytm ，Bharat,Bharatpe business ,AmaonPay, Gpay, BHIM IndusPay,TataNeu,Slice.....】
 
