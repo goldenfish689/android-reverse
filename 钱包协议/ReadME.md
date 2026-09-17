@@ -10,24 +10,25 @@
 | 持续新增 | 我们会根据客户需求定制接入新的 UPI 钱包及银行 APP |
 
 
-App	代收能力	代付能力	更偏向	说明
-PhonePe	✅	✅	都可以	消费者 UPI，支持 P2P 转账、UPI ID/银行账户付款，也可以接收 UPI 付款。官方明确支持 P2P transfer。
-PhonePe Business	✅✅	⚠️	代收	Merchant 产品，核心是 QR/商户收款、交易管理与结算，不应当和消费者 PhonePe 的 P2P 付款能力等同
-Paytm	✅	✅	都可以	消费者 UPI，可主动付款，也可接收 UPI 付款。
-Paytm Business	✅✅	⚠️/✅	代收为主	核心是 Merchant Collection、QR、Gateway；Paytm 商户体系也存在支付/结算类能力，但与普通 UPI P2P 付款不是一回事。
-MobiKwik	✅	✅	都可以	消费者 Wallet + UPI 类型产品
-Freecharge	✅	✅	都可以	消费者支付/UPI 产品
-MyJio / JioFinance	✅	✅	都可以	综合金融 App 中提供 UPI，不是纯 UPI 钱包
-GPay India	✅	✅	都可以	很典型的消费者双向 UPI。Google 明确说明可以 send or receive money。
-GPay Business	✅✅	❌/弱	代收	Google 官方定位就是商户接受付款；重点是收款而不是消费者式 P2P 转账。
-Moneyview	⚠️	⚠️	非典型	核心定位更偏贷款、信用与金融服务，不建议作为典型 UPI 收付钱包研究样本
-BharatPe Business	✅✅	⚠️	代收	非常典型的 Merchant Acquiring 产品：QR 收款、POS、Soundbox、Settlement。
-BharatPe UPI（消费者版）	✅	✅	都可以	现在 BharatPe 也有消费者 UPI，官方提供 Scan & Pay；需要和 BharatPe Business 分开看。
-super.money	✅	✅	都可以	消费者 UPI/金融产品
-Navi	✅	✅	都可以	消费者 UPI + 金融服务
-Amazon Pay India	✅	✅	都可以	Amazon India 内的 UPI/支付能力，但不是纯 UPI App
-Airtel / Airtel Thanks	✅	✅	都可以	Airtel Payments Bank 官方明确支持 Request/Receive Money、Send Money、UPI ID、IFSC/Account 转账等。
-BHIM	✅	✅	都可以	标准消费者 UPI 模型，天然属于 P2P/P2M 双向支付
+| App                        | 代收能力 | 代付能力 | 更偏向          | 说明                                                                                                               |
+| -------------------------- | ---- | ---- | ------------ | ---------------------------------------------------------------------------------------------------------------- |
+| **PhonePe**                | ✅    | ✅    | **都可以**      | 消费者 UPI，支持 P2P 转账、UPI ID/银行账户付款，也可以接收 UPI 付款。官方明确支持 P2P transfer。([PhonePe][1])                                  |
+| **PhonePe Business**       | ✅✅   | ⚠️   | **代收**       | Merchant 产品，核心是 QR/商户收款、交易管理与结算，不应当和消费者 PhonePe 的 P2P 付款能力等同                                                     |
+| **Paytm**                  | ✅    | ✅    | **都可以**      | 消费者 UPI，可主动付款，也可接收 UPI 付款。([Paytm][2])                                                                           |
+| **Paytm Business**         | ✅✅   | ⚠️/✅ | **代收为主**     | 核心是 Merchant Collection、QR、Gateway；Paytm 商户体系也存在支付/结算类能力，但与普通 UPI P2P 付款不是一回事。([Paytm for Business][3])          |
+| **MobiKwik**               | ✅    | ✅    | **都可以**      | 消费者 Wallet + UPI 类型产品                                                                                            |
+| **Freecharge**             | ✅    | ✅    | **都可以**      | 消费者支付/UPI 产品                                                                                                     |
+| **MyJio / JioFinance**     | ✅    | ✅    | **都可以**      | 综合金融 App 中提供 UPI，不是纯 UPI 钱包                                                                                      |
+| **GPay India**             | ✅    | ✅    | **都可以**      | 很典型的消费者双向 UPI。Google 明确说明可以 send or receive money。([Google Help][4])                                             |
+| **GPay Business**          | ✅✅   | ❌/弱  | **代收**       | Google 官方定位就是商户接受付款；重点是收款而不是消费者式 P2P 转账。([Google Help][5])                                                       |
+| **Moneyview**              | ⚠️   | ⚠️   | **非典型**      | 核心定位更偏贷款、信用与金融服务，不建议作为典型 UPI 收付钱包研究样本                                                                            |
+| **BharatPe Business**      | ✅✅   | ⚠️   | **代收**       | 非常典型的 Merchant Acquiring 产品：QR 收款、POS、Soundbox、Settlement。([BharatPe][6])                                        |
+| **BharatPe UPI（消费者版）**     | ✅    | ✅    | **都可以**      | 现在 BharatPe 也有消费者 UPI，官方提供 Scan & Pay；需要和 BharatPe Business 分开看。([BharatPe][6])                                  |
+| **super.money**            | ✅    | ✅    | **都可以**      | 消费者 UPI/金融产品                                                                                                     |
+| **Navi**                   | ✅    | ✅    | **都可以**      | 消费者 UPI + 金融服务                                                                                                   |
+| **Amazon Pay India**       | ✅    | ✅    | **都可以**      | Amazon India 内的 UPI/支付能力，但不是纯 UPI App                                                                            |
+| **Airtel / Airtel Thanks** | ✅    | ✅    | **都可以**      | Airtel Payments Bank 官方明确支持 Request/Receive Money、Send Money、UPI ID、IFSC/Account 转账等。([Airtel Payments Bank][7]) |
+| **BHIM**                   | ✅    | ✅    | **都可以**      | 标准消费者 UPI 模型，天然属于 P2P/P2M 双向支付                                                                                   |
 
 
 //==========================================
