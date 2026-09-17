@@ -2,12 +2,30 @@
 
 ## 支持平台（协议版 + 插件版）
 
-| 类别 | 支持平台 |
-|--------|--------|
-| 主流 UPI 钱包 | PhonePe、Paytm、Mobikwik、FreeCharge、Airtel Money、Amazon Pay、BHIM、IndusPay、MyJio、Google Pay（GPay）、Slice、Tata Neu、Flipkart Pay |
-| 商户版钱包 | PhonePe Business、Paytm Business |
-| 银行类 APP | Bangkok Bank Mobile Banking、Kotak Bank |
-| 持续新增 | 我们会根据客户需求定制接入新的 UPI 钱包及银行 APP |
+| 国家/地区         | App / 平台                      | 类型/定位                              |
+| ------------- | ----------------------------- | ---------------------------------- |
+| 🇮🇳 **印度**   | PhonePe                       | UPI / 消费者支付                        |
+|               | PhonePe Business              | UPI / 商户收款                         |
+|               | Paytm                         | UPI / 钱包 / 消费者支付                   |
+|               | Paytm Business                | 商户支付 / 收款                          |
+|               | MobiKwik                      | UPI / Wallet / 金融                  |
+|               | FreeCharge                    | UPI / 支付 / 金融                      |
+|               | MyJio                         | 综合 App / 支付金融                      |
+|               | Google Pay（GPay）              | UPI / 消费者支付                        |
+|               | Google Pay Business           | UPI / 商户收款                         |
+|               | Moneyview                     | 金融 / 信贷 / 支付                       |
+|               | BharatPe Business             | UPI / 商户收款                         |
+|               | super.money                   | UPI / 金融                           |
+|               | Navi                          | UPI / 金融                           |
+|               | Amazon / Amazon Pay           | UPI / Wallet / 电商支付                |
+|               | Airtel / Airtel Payments Bank | UPI / 银行 / 支付                      |
+|               | BHIM IndusPay                 | UPI / IndusInd Bank                |
+| 🇧🇩 **孟加拉国** | bKash                         | Mobile Financial Services / Wallet |
+|               | Nagad                         | Mobile Financial Services / Wallet |
+| 🌎 **拉丁美洲**   | Mercado Pago                  | Wallet / 收单 / 数字金融                 |
+| 🌏 **东南亚**    | TrueMoney                     | Wallet / 支付 / 金融                   |
+
+
 
 
 | App                        | 代收能力 | 代付能力 | 更偏向          | 说明                                                                                                               |
