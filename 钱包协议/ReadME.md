@@ -4,7 +4,7 @@
 
 | 国家/地区         | App / 平台                      | 类型/定位                              |
 | ------------- | ----------------------------- | ---------------------------------- |
-| 🇮🇳 **印度**   | PhonePe                       | UPI / 消费者支付                        |
+| **印度**   | PhonePe                       | UPI / 消费者支付                        |
 |               | PhonePe Business              | UPI / 商户收款                         |
 |               | Paytm                         | UPI / 钱包 / 消费者支付                   |
 |               | Paytm Business                | 商户支付 / 收款                          |
@@ -20,9 +20,9 @@
 |               | Amazon / Amazon Pay           | UPI / Wallet / 电商支付                |
 |               | Airtel / Airtel Payments Bank | UPI / 银行 / 支付                      |
 |               | BHIM IndusPay                 | UPI / IndusInd Bank                |
-| 🇧🇩 **孟加拉国** | bKash                         | Mobile Financial Services / Wallet |
+| 🇧🇩 **孟加拉** | bKash                         | Mobile Financial Services / Wallet |
 |               | Nagad                         | Mobile Financial Services / Wallet |
-| 🌎 **拉丁美洲**   | Mercado Pago                  | Wallet / 收单 / 数字金融                 |
+| 🌎 **拉美**   | Mercado Pago                  | Wallet / 收单 / 数字金融                 |
 | 🌏 **东南亚**    | TrueMoney                     | Wallet / 支付 / 金融                   |
 
 
