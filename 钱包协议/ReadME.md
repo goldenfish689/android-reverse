@@ -20,10 +20,10 @@
 |               | Amazon / Amazon Pay           | UPI / Wallet / 电商支付                |
 |               | Airtel / Airtel Payments Bank | UPI / 银行 / 支付                      |
 |               | BHIM IndusPay                 | UPI / IndusInd Bank                |
-| 🇧🇩 **孟加拉** | bKash                         | Mobile Financial Services / Wallet |
+|  **孟加拉** | bKash                         | Mobile Financial Services / Wallet |
 |               | Nagad                         | Mobile Financial Services / Wallet |
-| 🌎 **拉美**   | Mercado Pago                  | Wallet / 收单 / 数字金融                 |
-| 🌏 **东南亚**    | TrueMoney                     | Wallet / 支付 / 金融                   |
+|  **拉美**   | Mercado Pago                  | Wallet / 收单 / 数字金融                 |
+|  **东南亚**    | TrueMoney                     | Wallet / 支付 / 金融                   |
 
 
 
