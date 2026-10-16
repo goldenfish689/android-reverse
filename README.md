@@ -93,7 +93,25 @@ y)	某音/Tiktok引流软件破解，点赞，评论，私信等。
 
 - [2026 Android逆向一二线城市机会](https://github.com/goldenfish689/android-reverse/blob/main/docs/Android%E9%80%86%E5%90%91%E8%81%8C%E4%BD%8D-%E4%B8%80%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%B1%87%E6%80%BB.md)
 
+4，精选 10 个 AI 逆向开源项目
+---
 
+（ 包括APK 分析、SO 逆向、MCP、Agent Skills、动态调试及自动化逆向。）
+
+| 项目 | 功能介绍 |
+|---|---|
+| 1. [REA](https://github.com/morluto/rea) | AI 自动化逆向 Agent，支持代码理解、调用链分析及自动化逆向任务。 |
+| 2. [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 为 Claude Code、Codex 提供专业逆向技能，增强 AI 逆向分析与任务执行能力。 |
+| 3. [IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp) | 让 AI 操作 IDA，分析 SO、ARM 汇编、函数引用及 Native 算法。 |
+| 4. [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 连接 AI 与 Ghidra，实现二进制反编译、函数搜索及交叉引用分析。 |
+| 5. [LAMDA](https://github.com/firerpa/lamda) | Android 动态分析与设备自动化框架，支持远程控制、应用操作及运行时分析。 |
+| 6. [Android Reverse Engineering Skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Android 专用 AI Skill，辅助 APK、DEX、Java 代码及安全机制分析。 |
+| 7. [JADX AI MCP](https://github.com/zinja-coder/jadx-ai-mcp) | AI 智能分析 JADX 反编译代码，支持混淆分析、调用链追踪及业务逻辑定位。 |
+| 8. [Open ReverseLab](https://github.com/LING71671/open-reverselab) | AI 逆向分析工作台，支持多工具协同、任务组织与自动化分析。 |
+| 9. [JADX MCP Server](https://github.com/zinja-coder/jadx-mcp-server) | 为 AI Agent 提供 JADX MCP 接口，实现类、方法、字符串及反编译代码查询。 |
+| 10. [Awesome AI Reverse](https://github.com/DiscoverBox/awesome-ai-reverse) | AI 逆向开源资源合集，收集 Agent、MCP、逆向工具及技术资料。 |
+
+- 
 ---
 
 ### Android 逆向-业务趋势
