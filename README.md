@@ -82,18 +82,9 @@ y)	某音/Tiktok引流软件破解，点赞，评论，私信等。
 
 ![Android逆向技术栈](https://github.com/goldenfish689/android-reverse/blob/main/pictures/236.png)
 
-3, Android 逆向-需求分析（落地变现）
----
 
-- [Android 逆向需求分析(1)-虚拟机/云手机/模拟器](https://github.com/goldenfish689/android-reverse/blob/main/docs/requirments-%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 
-- [Android 逆向需求分析(2)-广告SDK](https://github.com/goldenfish689/android-reverse/blob/main/docs/requirments-%E5%B9%BF%E5%91%8ASDK%E5%88%86%E6%9E%90.md)  
-
-- [2026 Android逆向-技术&业务分析](https://github.com/goldenfish689/android-reverse/blob/main/docs/Android%20%E9%80%86%E5%90%91-%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90.md)
-
-- [2026 Android逆向一二线城市机会](https://github.com/goldenfish689/android-reverse/blob/main/docs/Android%E9%80%86%E5%90%91%E8%81%8C%E4%BD%8D-%E4%B8%80%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%B1%87%E6%80%BB.md)
-
-4，推荐 10 个借助 AI 进行APP逆向的开源项目
+3，推荐 10 个借助 AI 进行APP逆向的开源项目
 ---
 
 （ 包括APK 分析、SO 逆向、MCP、Agent Skills、动态调试及自动化逆向）
@@ -113,6 +104,17 @@ y)	某音/Tiktok引流软件破解，点赞，评论，私信等。
 
 （别只收藏，工具再好，用起来才有价值~）
 - 
+
+4, Android 逆向-需求分析（落地变现）
+---
+
+- [Android 逆向需求分析(1)-虚拟机/云手机/模拟器](https://github.com/goldenfish689/android-reverse/blob/main/docs/requirments-%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
+
+- [Android 逆向需求分析(2)-广告SDK](https://github.com/goldenfish689/android-reverse/blob/main/docs/requirments-%E5%B9%BF%E5%91%8ASDK%E5%88%86%E6%9E%90.md)  
+
+- [2026 Android逆向-技术&业务分析](https://github.com/goldenfish689/android-reverse/blob/main/docs/Android%20%E9%80%86%E5%90%91-%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90.md)
+
+- [2026 Android逆向一二线城市机会](https://github.com/goldenfish689/android-reverse/blob/main/docs/Android%E9%80%86%E5%90%91%E8%81%8C%E4%BD%8D-%E4%B8%80%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%B1%87%E6%80%BB.md)
 ---
 
 ### Android 逆向-业务趋势
