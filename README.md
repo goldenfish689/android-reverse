@@ -7,7 +7,6 @@
 
 [APP协议分析 / 算法还原 / 数据爬虫 / 脱壳修复]
 
-Android 逆向接单/收徒（Telegram：@mingjun689） 
 
 1,	客户项目
 ---
